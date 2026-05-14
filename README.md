@@ -5,10 +5,6 @@ It allows users to browse food items, add to cart, place orders, and manage auth
 
 ---
 
-## 🚀 Live Demo
-*(Add later after deployment)*  
-https://your-deployment-link.com
-
 ---
 
 ## 🧠 Tech Stack
