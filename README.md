@@ -52,7 +52,7 @@ https://your-deployment-link.com
 
 ### 1️⃣ Clone repo
  
-git clone https://github.com/your-username/mern-food-delivery-app.git
+git clone https://github.com/Shreya02092004/mern-food-delivery-app.git
 cd backend
 npm install
 npm run server
